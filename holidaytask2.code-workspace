@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../holidaytask3/holidaytask2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "holidaytaks"
+	}
+}
